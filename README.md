@@ -32,5 +32,5 @@ This project is an autonomous checkout and dietary tracking system designed for 
    python app.py
 6. Access the web interface at http://127.0.0.1:5000
 
-📄 Documentation
+## 📄 Documentation
 Academic reports and presentation slides regarding the model training process, dataset creation, and architectural decisions can be found in the docs/ directory.
