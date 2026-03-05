@@ -23,12 +23,14 @@ This project is an autonomous checkout and dietary tracking system designed for 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Smart-Tray-YOLOv8-Automation.git](https://github.com/YOUR_USERNAME/Smart-Tray-YOLOv8-Automation.git)
+   git clone [https://github.com/enesornk/Smart-Tray-YOLOv8-Automation.git](https://github.com/enesornk/Smart-Tray-YOLOv8-Automation.git)
 2. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
-3. Run the application:
+4. Run the application:
+   ```bash
    python app.py
-4. Access the web interface at http://127.0.0.1:5000
+6. Access the web interface at http://127.0.0.1:5000
 
 📄 Documentation
 Academic reports and presentation slides regarding the model training process, dataset creation, and architectural decisions can be found in the docs/ directory.
