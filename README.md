@@ -1,5 +1,7 @@
 # 🍽️ Smart Tray: Deep Learning-Based Cafeteria Automation
 
+*[Türkçe versiyonu için buraya tıklayın](README_tr.md)*
+
 ## 📌 Project Overview
 This project is an autonomous checkout and dietary tracking system designed for mass dining areas such as university cafeterias and restaurants. By leveraging advanced computer vision techniques, the system eliminates traditional cashier queues and provides users with instant nutritional feedback.
 
